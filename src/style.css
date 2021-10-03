@@ -27,6 +27,10 @@
     text-align: center;
   }
 
+  a {
+    color: white;
+  }
+
   @media screen and (min-width: 1200px) {
     body {
         margin-left: 20rem;
