@@ -5,7 +5,7 @@
 ## Introduction
 This repository has a simple CRT (TV) effect in CSS.
 
-Thanks to [Patrick Hlauke](https://codepen.io/patrickhlauke/pen/YaoBop) for his Codepen example.
+Thanks to [Patrick H. Lauke](https://codepen.io/patrickhlauke/pen/YaoBop) for his Codepen example.
 
 
 ## License?
