@@ -3,6 +3,7 @@
 ![HTML5](https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Introduction
+[LIVE PREVIEW](https://codesandbox.io/s/github/D3nn7/crt-css)
 This repository has a simple CRT (TV) effect in CSS.
 
 Thanks to [Patrick H. Lauke](https://codepen.io/patrickhlauke/pen/YaoBop) for his Codepen example.
